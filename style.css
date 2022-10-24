@@ -25,5 +25,10 @@ body {
 
 .logo {
 	position: absolute;
-
+	width: 150px;
+	height: 150px;
+	background: url(./img/jonathan-tawk.jpg);
+	background-size: cover;
+	border-radius: 50%;
+	filter: brightness(0.92) contrast(1.2);
 }
